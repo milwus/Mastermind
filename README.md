@@ -1,0 +1,2 @@
+# Mastermind
+Simple mastermind game
